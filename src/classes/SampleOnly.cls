@@ -12,7 +12,8 @@ public class SampleOnly {
     
     public static void SampleMethod(){
         for (integer i=0; i < 3; i++){
-            List<Account> lsAcc = [select id from Account limit 1];
+           // List<Account> lsAcc = [select id from Account limit 1];
+           system.debug('number is ' + i);
         }
         system.debug('hello world');
     }
