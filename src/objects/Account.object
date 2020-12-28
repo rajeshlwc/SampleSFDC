@@ -288,9 +288,9 @@
                     <label>High</label>
                 </value>
                 <value>
-                    <fullName>Low</fullName>
+                    <fullName>Lowest</fullName>
                     <default>false</default>
-                    <label>Low</label>
+                    <label>Lowest</label>
                 </value>
                 <value>
                     <fullName>Medium</fullName>
